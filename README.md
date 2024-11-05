@@ -84,12 +84,12 @@ oc expose springboot-sample-app --hostname=www.example.com
 <img src="./bioMedical/img/23.png" >
 
 
-## Copyright @soumyadip007
+## Copyright @aravind reddy
 ```shell
 /**
  * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
+ * @author aravind reddy
+ * @github AravindReddy-cyber
  *
  */
 
@@ -167,4 +167,3 @@ Released under the Apache License 2.0. See the [LICENSE](https://github.com/code
 
 - [Ofline Route Builder & DTN (On progress)](https://github.com/soumyadip007/Offline-Route-Builder-DTN-Messenger-Android-GPS-OSM)
 
-# #Wiki: https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-MVC-Hibernate-JPA-Rest-Thymeleaf-HQL/wiki
